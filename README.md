@@ -31,4 +31,7 @@ to customer service for further evaluation.
 As of now only one relation is considered as we are dealing only with the category, quantity, rental price details of an equipment.
 ![DatabaseSchema](https://github.com/user-attachments/assets/8f9c4af4-ca6d-4b64-81af-a5fd81f3abee)
 
+## Flowchart of entire procedure
+
+
 
