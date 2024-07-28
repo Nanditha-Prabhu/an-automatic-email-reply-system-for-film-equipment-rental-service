@@ -26,3 +26,9 @@ solutions to reported equipment issues. (As of now, Not working completely.)
 ### 4. General Handling:
 - Forwarding: Emails that do not fit into the above categories should be forwarded
 to customer service for further evaluation.
+
+## Database Schema
+As of now only one relation is considered as we are dealing only with the category, quantity, rental price details of an equipment.
+![DatabaseSchema](https://github.com/user-attachments/assets/8f9c4af4-ca6d-4b64-81af-a5fd81f3abee)
+
+
